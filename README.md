@@ -8,7 +8,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
 <img  height="350em" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
-<img  height="200rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vivstoyo82&show_icons=true&locale=en&layout=compact" alt="vivstoyo82" />
+<img  height="180rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=vivstoyo82&show_icons=true&locale=en&layout=compact" alt="vivstoyo82" />
 </div>
 
 - 🌱 I’m currently learning **more about react.js in deep**
